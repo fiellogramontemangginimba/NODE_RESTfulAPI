@@ -3,8 +3,7 @@
     "nodemon": "^2.0.16"
   },
   "scripts": {
-    "start":"node ./app.js",
-    "dev":"nodemon ./app.js"
+    "start": "node app"
   },
   "dependencies": {
     "dotenv": "^16.0.1",
